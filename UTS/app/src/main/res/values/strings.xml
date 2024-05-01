@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="nik">NIK</string>
+    <string name="student_form">Student Form</string>
+    <string name="Aboard">Welcome to aboard!</string>
+    <string name="Fill">Please fill out this form properly</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nomor_induk_kependudukan">Nomor Induk Kependudukan</string>
+    <string name="date">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="please_fill_the_form_carefully">Please fill the form carefully</string>
+    <string name="wna">WNA</string>
+    <string name="wni">WNI</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="development_it">Development IT</string>
+</resources>
